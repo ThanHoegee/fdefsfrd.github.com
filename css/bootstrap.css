@@ -179,17 +179,8 @@ textarea {
 optgroup {
   font-weight: bold;
 }
-table {
-  font-family: Open Sans;
-  border-spacing: 0;
-  border-collapse: collapse;
-}
-td {
-	font-family: A
-}
-th {
-  padding: 0;
-}
+
+
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
